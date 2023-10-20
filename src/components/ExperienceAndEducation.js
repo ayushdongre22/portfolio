@@ -68,9 +68,9 @@ function ExperienceAndEducation() {
                 Senior Secondary Education (XII<sup>th</sup> Grade) : CBSE Board
                 (2020)
               </h5>
-              NAGAJI SVM, BALLIA, u.p
+              Vardhaman Public School, Itarsi, M.P
               <br />
-              Percentage: 81%
+              Percentage: 87%
             </td>
           </tr>
           <hr />
@@ -93,9 +93,9 @@ function ExperienceAndEducation() {
               <h5>
                 Secondary Education (X<sup>th</sup> Grade) : CBSE Board (2019)
               </h5>
-              NAGAJI SVM, BALLIA
+              Vardhaman Public School, Itarsi
               <br />
-              Percentage: 88%
+              Percentage: 83%
             </td>
           </tr>
         </tbody>
